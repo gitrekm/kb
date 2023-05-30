@@ -1,0 +1,9 @@
+langchain
+openai
+tiktoken
+faiss-cpu
+pypdf
+streamlit
+pdf2image
+tabulate
+chromadb
